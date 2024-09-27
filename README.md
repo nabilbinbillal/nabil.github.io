@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Nabil Bin Billal ! Welcome to my Portfolio👋
+# Hi there, I'm Nabil Bin Billal ! 
 
 **🌐 Web Developer | 💻 MERN Stack Developer | 📱 Android Developer | 🌟 WordPress Developer | 🖊️ Content Writer | 🛡️ Moderator**
 
